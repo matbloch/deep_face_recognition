@@ -56,6 +56,7 @@ def unpickle(filename):
 
 def load_image_list(img_dir, list_file_name):
     list_file_path = os.path.join(img_dir, list_file_name)
+
     f = open(list_file_path, 'r')
     image_fullpath_list = []
     image_list = []

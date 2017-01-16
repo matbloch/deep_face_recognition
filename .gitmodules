@@ -1,3 +1,6 @@
 [submodule "face_verification_experiment"]
 	path = face_verification_experiment
 	url = https://github.com/AlfredXiangWu/face_verification_experiment
+[submodule "caffe-face"]
+	path = caffe-face
+	url = https://github.com/ydwen/caffe-face.git

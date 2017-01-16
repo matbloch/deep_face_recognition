@@ -1,0 +1,1 @@
+python caffe_ftr.py LightenedCNN_B_deploy.prototxt LightenedCNN_B.caffemodel /uids/python_misc-master/caffe/images image_list.txt fc2 my_features.mat
