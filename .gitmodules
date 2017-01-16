@@ -1,0 +1,3 @@
+[submodule "face_verification_experiment"]
+	path = face_verification_experiment
+	url = https://github.com/AlfredXiangWu/face_verification_experiment
