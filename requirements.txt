@@ -3,3 +3,4 @@ numpy >= 1.12, < 2.0
 scikit-learn >= 0.18, < 0.19
 sklearn
 matplotlib
+opencv-python
